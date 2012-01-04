@@ -1,1 +1,1 @@
-A test README.txt file with a link to afile.html.
+A test README.txt file with a link to http:afile.html.
